@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently studying Mathematics and Computer Science at UPC, Barcelona.
 
 - :seedling: Exploring Technical Content Writing.
 
