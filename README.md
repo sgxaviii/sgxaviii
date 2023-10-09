@@ -1,4 +1,5 @@
-### Hi there 👋
+### :man_technologist: About me:
+I'm a STEM student from Barcelona, Spain.
 
 - :telescope: I’m currently studying Mathematics and Computer Science at UPC, Barcelona.
 
