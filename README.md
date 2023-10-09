@@ -2,9 +2,9 @@
 
 - :telescope: I’m currently studying Mathematics and Computer Science at UPC, Barcelona.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Artificial Intelligence and Deep Learning.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I take part in Hackathons and other tech events.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xavi-momplet-6bb1621a7)
 ### :fire: My Stats :
